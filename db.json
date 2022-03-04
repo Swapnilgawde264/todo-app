@@ -1,0 +1,84 @@
+{
+  "players": [
+    {
+      "name": "rohit sharma",
+      "email": "rohit@gmail.com",
+      "address": "Mumbai",
+      "userid": 1,
+      "id": 1
+    },
+    {
+      "name": "virat Kohli",
+      "email": "viratk@gmail.com",
+      "address": "Bangalore",
+      "userid": 2,
+      "id": 2
+    },
+    {
+      "name": "Ms Dhoni",
+      "email": "dhoni@gmail.com",
+      "address": "chennai",
+      "userid": 3,
+      "id": 3
+    },
+    {
+      "name": "shikhar Dhawan",
+      "email": "shikh@gmail.com",
+      "address": "delhi",
+      "id": 4
+    },
+    {
+      "name": "suresh raina ",
+      "email": "raina@gmail.com",
+      "address": "chennai",
+      "userid": 5,
+      "id": 5
+    },
+    {
+      "name": "rishab pant",
+      "email": "rishab@gmail.com",
+      "address": "delhi",
+      "id": 6
+    },
+    {
+      "name": "shreyas iyyer",
+      "email": "shreyas@gmail.com",
+      "address": "kolkatta",
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "task": "close laptop",
+      "id": 6
+    },
+    {
+      "task": "learn quewstions",
+      "id": 8
+    },
+    {
+      "task": "Add Data in pc",
+      "id": 9
+    },
+    {
+      "task": "not working try again",
+      "id": 12
+    },
+    {
+      "task": "i am trying",
+      "id": 13
+    },
+    {
+      "task": "do it",
+      "id": 14
+    },
+    {
+      "task": "Do Task",
+      "id": 15
+    },
+    {
+      "task": "New Task",
+      "id": 16
+    }
+  ]
+}
